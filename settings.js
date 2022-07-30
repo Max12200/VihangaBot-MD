@@ -47,7 +47,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'loading by 🍭 ᴛᴏxɪᴄ ᴍᴀx ʙᴏᴛ 🍭...',
-    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
+    error: 'this video is too big 🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
