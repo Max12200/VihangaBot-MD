@@ -24,29 +24,29 @@ global.APIKeys = {
 global.owner = ['917994827702']
 global.premium = ['917994827702']
 global.ownernomer = '917994827702'
-global.ownername = 🍭ᴍᴀᴅ ɢᴜʏ ᴍᴀx
-global.botname = 'VIHANGA MD BOT'
+global.ownername = 🍭 ᴍᴀᴅ ɢᴜʏ ᴍᴀx 🍭 
+global.botname = 'ᴛᴏxɪᴄ ᴍᴀx ᴍᴅ'
 global.footer = ''
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
-global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
+global.cap = '*Genarated By 𝐓𝐨𝐱𝐢𝐜 𝐦𝐚𝐱*'
+global.ig = 
+global.region = 'India,kerala,kollam'
+global.sc = 
 global.myweb = ''
-global.packname = 'Vihanga Md Sticker Bot'
+global.packname = 'ᴛᴏxɪᴄ ᴍᴀx sᴛɪᴄᴋᴇʀ ʙᴏᴛ'
 global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.autobio = 'true'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'හරි ✓',
+    success: ' Done🍭✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'ටිකක් ඉන්න...',
+    wait: 'loading by 🍭 ᴛᴏxɪᴄ ᴍᴀx ʙᴏᴛ 🍭...',
     error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
