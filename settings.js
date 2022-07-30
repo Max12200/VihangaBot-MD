@@ -1,4 +1,4 @@
-//═══════════════════════════════════════════════════════//
+Jio//═══════════════════════════════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
@@ -33,8 +33,8 @@ global.region = 'India,kerala,kollam'
 global.sc = 
 global.myweb = ''
 global.packname = 'ᴛᴏxɪᴄ ᴍᴀx sᴛɪᴄᴋᴇʀ ʙᴏᴛ'
-global.author = 'ɪͥᴛͭsᷤ ͢ᴍͫᴇͤ𝗠𝗔𝗫⇾🪀🇮🇳⃟ꫂ⁩⁩⁩〽️'
-global.autobio = 'true'
+global.author = 'ɪͥᴛͭsᷤ ͢ᴍͫᴇͤ𝗠𝗔𝗫⇾〽️'
+global.autobio = 'false'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
